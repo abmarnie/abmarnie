@@ -7,7 +7,7 @@ My favorite domains to work in as a hobbyist are:
 - Developer and Artist Tooling & Automation
 - Scientific Computing
 
-I live by KISS, YAGNI, and the 80/20 rule, but I also take testing (manual, unit, integration, snapshot) and tech debt seriously. Left unchecked, tech debt erodes morale, slows delivery, creates buggy UX, and kills scalability; worst case, a competitor wins your client by delivering the 20% of features that matter most, with better UX, faster turnaround, or giving providing control over source code. That said, tech debt is a necessary evil; it all depends on the context.
+I live by KISS, YAGNI, and the 80/20 rule, but I also take testing (manual, unit, integration, snapshot) and tech debt seriously. Left unchecked, tech debt erodes morale, slows delivery, creates buggy UX, and kills scalability; worst case, a competitor wins your client by delivering the 20% of features that matter most, with better UX, faster turnaround, or offering additional services like providing source code access. That said, tech debt is a necessary evil; it all depends on the context.
 
 I make my money with .NET (C#), Angular (TypeScript), and SQL (which I actually greatly enjoy writing), but my current favorite language is Zig for its imperative nature and lack of footguns. I also love the array programming paradigm (MATLAB, NumPy, Julia), functional programming when practical (F#, or just keeping functions close to pure without wrecking performance), and working in game engines (Godot, Unity).
 
