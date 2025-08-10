@@ -4,7 +4,7 @@ I currently work on enterprise business applications, primarily acting as a spec
 
 My favorite domains to work in as a hobbyist are:
 - Game Development
-- Developer and Artist Tooling
+- Developer and Artist Tooling & Automation
 - Scientific Computing
 
 I live by KISS, YAGNI, and the 80/20 rule, but I also take testing (manual, unit, integration, and snapshot) and tech debt seriously; not paying tech debt down can lead to serious issues in terms of team morale, developer churn, developer velocity, buggy and janky feeling UX, backend scalability issues, etc. (worst case scenario: a competitor scoops your big client because they can move 10x faster by only implementing the 20% subset of features which are business critical to that client with better UX, cheaper prices, or offer complete source code control -- I have been on both sides of this). With that being said, tech debt is a necessary evil and so I am pragmatic about things; it all depends on the context.
