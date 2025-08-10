@@ -7,7 +7,7 @@ My favorite domains to work in as a hobbyist are:
 - Developer and Artist Tooling
 - Scientific Computing
 
-I live by KISS, YAGNI, and the 80/20 rule, but I also take tech debt seriously and know that not paying it down leads to serious issues in terms of team morale, developer churn, developer velocity, buggy and janky feeling UX, backend scalability issues, etc. With that being said, tech debt is a necessary evil and so I am pragmatic about things; it all depends on the context.
+I live by KISS, YAGNI, and the 80/20 rule, but I also take testing (manual, unit, integration, and snapshot) and tech debt seriously and know that not paying it down leads to serious issues in terms of team morale, developer churn, developer velocity, buggy and janky feeling UX, backend scalability issues, etc. With that being said, tech debt is a necessary evil and so I am pragmatic about things; it all depends on the context.
 
 I make my money using .NET (C#), Angular (TypeScript), and SQL (which I enjoy writing for some reason), but my favorite language as of late is Zig due to its straightforward imperative nature and lack of footguns. I also greatly enjoy the array programming paradigm (MATLAB, Python NumPy, Julia), am an appreciator of functional programming (F#, or just generally making functions as close to pure as is reasonable), and enjoy working in game engines (Godot, Unity).
 
