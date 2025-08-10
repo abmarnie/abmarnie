@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I currently work on enterprise business applications, primarily acting as a specialist on Web API and database design, but I also get paid to work on frontend state management (Angular) often. Beyond coding, I also like to step up and take on product management and team lead tasks whenever the opportunity arises, so that I can have more of an impact to make projects I work on a success (no matter the constraints or how bad the situation might be).
+I currently work on enterprise business applications, primarily acting as a specialist on Web API and database design, but I also get paid to work on frontend state management (Angular) often. Beyond coding, I also like to step up and take on product management and team lead tasks whenever the opportunity arises, so that I can have more of an impact to make projects I work on a success (no matter the constraints or how bad the situation might be). Ultimately though, I was put on this earth not just to solve problems, but also to be a pleasant person who uplifts those around me.
 
 My favorite domains to work in as a hobbyist are:
 - Game Development
