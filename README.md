@@ -13,4 +13,4 @@ I make my money with .NET (C#), Angular (TypeScript), and SQL (which I actually 
 
 My least favorite environments are low-trust cultures, purely sales-driven cultures, overly bureaucratic cultures, and those with opaque leadership. Often, the only things keeping devs sane in these environments is a shared sense of solidarity for the suffering they go through, which is not a sustainable way to motivate high performers who want to align themselves with your company's success.
 
-If you want to work with a kind person with high standards who can align their high ambitions with yours to deliver impactful products as a business of technical consultant, shoot me an email at abmarnie9@gmail.com.
+If you want to work with a kind person with high standards who can align their high ambitions with yours to deliver impactful products as a business or technical consultant, shoot me an email at abmarnie9@gmail.com.
