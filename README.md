@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I currently work on enterprise business applications, primarily acting as a specialist on Web API and database design, but I also get paid to work on frontend state management often. Beyond coding and mathematics (at one point I was attempting a Math PhD...), I also like to step up and take on product management and leadership tasks whenever the opportunity arises, so that I can have more of an impact to make projects I work on a success (no matter the constraints or how bad the situation might be). Ultimately though, I was put on this Earth not just to solve problems, but also to be a pleasant person with high levels of integrity and who uplifts those around me by treating them with the respect they deserve.
+I currently work on enterprise business applications, primarily acting as a specialist on Web API and database design, but I also get paid to work on frontend state management often. Beyond coding and mathematics (at one point I was attempting a Math PhD...), I also like to step up and take on product management and leadership tasks whenever the opportunity arises, so that I can have more of an impact to make projects I work on a success (no matter the constraints or how bad the situation might be). Ultimately though, I was put on this Earth not just to solve problems, but also to be a pleasant person with high levels of integrity and who uplifts those around me by treating them with the respect human beings deserve.
 
 My favorite domains to work in as a hobbyist are:
 - Game Development
