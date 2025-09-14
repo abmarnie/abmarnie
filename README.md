@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I mostly work on enterprise business applications, primarily as a specialist in Web APIs and database design (though I often dabble in frontend state management as well). Beyond coding, I like to step up into product management and leadership whenever the opportunity arises, so I can have a greater impact on project success -- no matter the constraints or how bad the situation might be. Ultimately though, I’m here not just to solve problems, but additionally to be a pleasant, high-integrity person who uplifts those around me.
+I mostly work on enterprise business applications, primarily as a specialist in Web APIs and database design (though I often dabble in frontend state management and tooling/automation as well). Beyond coding, I like to step up into product management and leadership whenever the opportunity arises, so I can have a greater impact on project success -- no matter the constraints or how bad the situation might be. Ultimately though, I’m here not just to solve problems, but additionally to be a pleasant, high-integrity person who uplifts those around me.
 
 My favorite domains to work in as a hobbyist are:
 - Game Development
