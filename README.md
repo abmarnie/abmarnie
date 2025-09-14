@@ -11,4 +11,4 @@ I live by KISS, YAGNI, and the 80/20 rule, but I also take testing (manual, unit
 
 I primarily work in .NET (C#), Angular (TypeScript), and SQL (which I actually greatly enjoy writing). My current favorite language is Zig for it's emphasis on being low-level while still retaining ergonomics and practicality. I also love the array programming paradigm (MATLAB, NumPy, Julia), functional programming (when practical), and working in game engines (Godot, Unity).
 
-If you want to work with a kind person with high standards who can align their high ambitions with yours to deliver impactful products as a business or technical consultant, shoot me an email at abmarnie9@gmail.com.
+If you want to work with a kind person with high standards who can align their high ambitions with yours to deliver impactful projects and features as a business or technical consultant, shoot me an email at abmarnie9@gmail.com.
