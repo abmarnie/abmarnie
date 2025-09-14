@@ -7,7 +7,7 @@ My favorite domains to work in as a hobbyist are:
 - Developer and Artist Tooling & Automation
 - Scientific Computing
 
-I live by KISS, YAGNI, and the 80/20 rule, but I also take testing (manual, unit, integration, performance, snapshot) and tech debt seriously.
+I live by KISS, YAGNI, and the 80/20 rule, but I also take testing (manual, unit, integration, performance, snapshot) and tech debt seriously (though, debt can serve a purpose at times).
 
 I primarily work in .NET (C#), Angular (TypeScript), and SQL (which I actually greatly enjoy writing). My current favorite language is Zig for it's emphasis on being low-level while still retaining ergonomics and practicality. I also love the array programming paradigm (MATLAB, NumPy, Julia), functional programming (when practical), and working in game engines (Godot, Unity).
 
