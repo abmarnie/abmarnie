@@ -14,4 +14,4 @@ My engineering philosophy leans heavily on **KISS, YAGNI, and the 80/20 rule**. 
 
 I primarily work with **.NET / C#, TypeScript (especially Angular), and SQL**—which I genuinely enjoy writing. My current favorite language is **Zig**, particularly for its emphasis on making low-level programming explicit without making it unnecessarily painful. I’m also a fan of the array-programming paradigm found in MATLAB, NumPy, and Julia; functional programming when it fits the problem; and working in game engines such as Godot and Unity.
 
-If you're looking for a **kind, pragmatic engineer with very high standards and extremely ambitious goals** who can align those ambitions with yours to deliver meaningful projects and features—whether as a technical or business consultant—feel free to reach out at **[abmarnie9@gmail.com](mailto:abmarnie9@gmail.com)**.
+If you're looking for a **kind, pragmatic engineer with very high standards and extremely ambitious goals** who can align those ambitions with yours to deliver meaningful projects and features (whether as a technical or business consultant) feel free to reach out at **[abmarnie9@gmail.com](mailto:abmarnie9@gmail.com)**.
