@@ -10,7 +10,7 @@ Outside of my day-to-day work, my favorite domains to explore are:
 * Developer & Artist Tooling / Automation
 * Scientific Computing
 
-My engineering philosophy leans heavily on **KISS, YAGNI, and the 80/20 rule**. I prefer simple systems that solve the actual problem over unnecessary abstraction or complexity. At the same time, I take testing—manual, unit, integration, performance, and snapshot—and technical debt seriously. Sometimes debt is useful; the important part is taking it on intentionally.
+My engineering philosophy leans heavily on **KISS, YAGNI, and the 80/20 rule**. I prefer simple systems that solve the actual problem over unnecessary abstraction or complexity. At the same time, I take testing (manual, unit, integration, performance, and snapshot) and technical debt seriously. Sometimes debt is useful; the important part is taking it on intentionally.
 
 I primarily work with **.NET / C#, TypeScript (especially Angular), and SQL**—which I genuinely enjoy writing. My current favorite language is **Zig**, particularly for its emphasis on making low-level programming explicit without making it unnecessarily painful. I’m also a fan of the array-programming paradigm found in MATLAB, NumPy, and Julia; functional programming when it fits the problem; and working in game engines such as Godot and Unity.
 
